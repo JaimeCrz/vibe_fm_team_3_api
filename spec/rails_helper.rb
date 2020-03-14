@@ -3,9 +3,9 @@ Coveralls.wear_merged!('rails')
 require 'spec_helper'
 ENV['RAILS_ENV'] ||= 'test'
 require 'webmock/rspec'
-WebMock.enable!
-# WebMock.allow_net_connect!
-# WebMock.disable!
+ WebMock.enable!
+#  WebMock.allow_net_connect!
+#  WebMock.disable!
 include WebMock::API
 
 WebMock::API
