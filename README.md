@@ -1,12 +1,14 @@
+### VibeFM
+
 [![Build Status](https://semaphoreci.com/api/v1/jaimecrz/vibe_fm_team_3_api/branches/development/badge.svg)](https://semaphoreci.com/jaimecrz/vibe_fm_team_3_api) [![Coverage Status](https://coveralls.io/repos/github/CraftAcademy/vibe_fm_team_3_api/badge.svg?branch=development)](https://coveralls.io/github/CraftAcademy/vibe_fm_team_3_api?branch=development)
 
 
 ### Authors 
-[Philip Gaunitz](https://github.com/pgauntiz)  
-[Jaime Cruz H](https://github.com/JaimeCrz)  
-[Pierre Tiberi](https://github.com/pierre-1/)  
-[Lautaro Parra](https://github.com/dernathul)
-[Blake Erickson](https://github.com/blake-futchi/) 
+- [Philip Gaunitz](https://github.com/pgauntiz)  
+- [Jaime Cruz H](https://github.com/JaimeCrz)  
+- [Pierre Tiberi](https://github.com/pierre-1/)  
+- [Lautaro Parra](https://github.com/dernathul)
+- [Blake Erickson](https://github.com/blake-futchi/) 
 
 ## Built with
 **Back End:** Rails v.6.0.2.1 | Ruby v.2.5.1
@@ -16,7 +18,7 @@
 ## The code   
 This is the API to our midcourse project at Craft Academy. 
 We have used Spotify as an external API so that a user can search for tracks and artists. 
-* [Client](https://github.com/pgaunitz/vibe_fm_team_3_client)
+* [Client]https://github.com/JaimeCrz/vibe_fm_team_3_client)
 
 ### Dependencies  
 * RSpec
